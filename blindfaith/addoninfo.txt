@@ -1,0 +1,16 @@
+"AddonInfo"
+{
+    "addonSteamAppID"					"550"
+    "addontitle"						"blind faith"
+    "addonversion"						"1.4"
+    "addontagline"						"blindass"
+    "addonauthor"						"UntotenTheo and surytrap"
+	"addonSteamGroupName"				""
+    "addonauthorSteamID"				""
+	"addonURL0"							""
+	"addonDescription"					"lets ask theo what he thinks
+	-b
+	thank you theo"
+	 
+
+}
