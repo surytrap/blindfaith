@@ -16,7 +16,7 @@ DirectorOptions <-
 	
 	DefaultItems =
 	[
-		"smg",
+		"mp5",
 		"pistol",
 	]
 
