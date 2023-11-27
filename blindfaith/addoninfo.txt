@@ -2,7 +2,7 @@
 {
     "addonSteamAppID"					"550"
     "addontitle"						"blind faith"
-    "addonversion"						"1.4"
+    "addonversion"						"1.5"
     "addontagline"						"blindass"
     "addonauthor"						"UntotenTheo and surytrap"
 	"addonSteamGroupName"				""
