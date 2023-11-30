@@ -9,7 +9,14 @@
 
 	// These settings control how the mode is displayed in the Mutations menu.
 	"DisplayTitle"			"Blind Faith"
-	"Description"			"b"
+	"Description"			"Blinding fog, an amped up horde and a violent storm all envelop you in this neverending nightmare.
+
+Commons are faster and more prominent, specials are plentiful, and visibility is impeded by a pitch black fog and a permanent storm.
+
+Worse yet, you don't even have AI-Controlled Survivor Bots to lean on to.
+
+Recommended to be played with human allies and the Blind Faith Essentials Collection...
+...or download the full pack & the amplifier collection for a true nightmare."
 	"ShortDescription"		"Don't blink."
 	"Author"			"UntotenTheo and surytrap"
 	"Image"				"vgui/blindfaith" // Normally 512 x 256 pixels
