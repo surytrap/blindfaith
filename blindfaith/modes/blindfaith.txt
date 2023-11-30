@@ -24,53 +24,53 @@ Recommended to be played with human allies and the Blind Faith Essentials Collec
 	// This is the part where cvars can be added to alter the game mode, this allows hidden cvars as well.
 	convar 
 	{ 
-	"fog_override" 1		//world covnars
-	"fog_enable" 1
-	"fog_startskybox" -10000
-	"fog_endskybox" -10000
-	"fog_enableskybox" 1
-	"fog_color" "0 0 0"        
-	"fog_start" -512
-	"fog_end" 728
-	"fog_colorskybox" "0 0 0"     
-	"fog_maxdensity" 1      
-	"fog_maxdensityskybox" 1      
-	"director_ammo_density" 0
-	"director_convert_pills" 0
-	"director_no_survivor_bots" 1
-	"cl_crosshair_alpha" 100		//player convars
-	"cl_crosshair_red" 20      
-	"cl_crosshair_green" 20      
-	"cl_crosshair_blue" 20   
-	"r_flashlightfov" 34      
-	"r_flashlightfar" 400 
-	"z_gun_damage" 60
-	"z_common_limit" 80		//commons convars
-	"z_mob_spawn_min_size" 17      
-	"z_mob_spawn_max_size" 25 
-	"z_mob_spawn_finale_size" 20                  
-	"z_must_wander" 0      
-	"z_acquire_far_range" 2500      
-	"z_acquire_far_time" 5      
-	"z_acquire_near_range" 200  
-	"z_hear_gunfire_range" 2700      
-	"z_mega_mob_size" 60      
-	"z_mute_infected" 1      
-	"z_speed" 300     
-	"z_door_pound_damage" 120
-	"z_spawn_mobs_behind_chance" 50    
-	"z_minion_limit" 6		//specials convars
-	"z_smoker_limit" 0
-	"z_spitter_limit" 6
-	"z_hunter_limit" 6
-	"z_jockey_limit" 6
-	"z_charger_limit" 6
-	"z_boomer_limit" 6
-	"z_charge_max_speed" 750
-	"z_hunter_speed" 450
-	"tank_swing_physics_prop_force" 6		//tank convars
-	"tank_swing_interval" 1.125
-	"z_tank_attack_interval" 1.125
-	"tank_swing_miss_interval" 0.75
+		"fog_override" 1		//world covnars
+		"fog_enable" 1
+		"fog_startskybox" -10000
+		"fog_endskybox" -10000
+		"fog_enableskybox" 1
+		"fog_color" "0 0 0"        
+		"fog_start" -512
+		"fog_end" 728
+		"fog_colorskybox" "0 0 0"     
+		"fog_maxdensity" 1      
+		"fog_maxdensityskybox" 1      
+		"director_ammo_density" 0
+		"director_convert_pills" 0
+		"director_no_survivor_bots" 1
+		"cl_crosshair_alpha" 100		//player convars
+		"cl_crosshair_red" 20      
+		"cl_crosshair_green" 20      
+		"cl_crosshair_blue" 20   
+		"r_flashlightfov" 34      
+		"r_flashlightfar" 400 
+		"z_gun_damage" 60
+		"z_common_limit" 80		//commons convars
+		"z_mob_spawn_min_size" 17      
+		"z_mob_spawn_max_size" 25 
+		"z_mob_spawn_finale_size" 20                  
+		"z_must_wander" 0      
+		"z_acquire_far_range" 2500      
+		"z_acquire_far_time" 5      
+		"z_acquire_near_range" 200  
+		"z_hear_gunfire_range" 2700      
+		"z_mega_mob_size" 60      
+		"z_mute_infected" 1      
+		"z_speed" 300     
+		"z_door_pound_damage" 120
+		"z_spawn_mobs_behind_chance" 50    
+		"z_minion_limit" 6		//specials convars
+		"z_smoker_limit" 0
+		"z_spitter_limit" 6
+		"z_hunter_limit" 6
+		"z_jockey_limit" 6
+		"z_charger_limit" 6
+		"z_boomer_limit" 6
+		"z_charge_max_speed" 750
+		"z_hunter_speed" 450
+		"tank_swing_physics_prop_force" 6		//tank convars
+		"tank_swing_interval" 1.125
+		"z_tank_attack_interval" 1.125
+		"tank_swing_miss_interval" 0.75
 	}
 }
