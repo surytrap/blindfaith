@@ -26,3 +26,8 @@ This mutation was built off of ChimiChano's ["Universal Downpour."](https://stea
 - Chargers, Hunters and Tanks are faster.
 
 wip
+
+# Credits
+UntotenTheo - initial idea, images, some convars
+surytrap - ideas, (minor) code changes, convars
+ChimiChano - ["Universal Downpour."](https://steamcommunity.com/sharedfiles/filedetails/?id=3038247005)
