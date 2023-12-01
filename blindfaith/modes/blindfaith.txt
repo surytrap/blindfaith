@@ -72,5 +72,6 @@ Recommended to be played with human allies and the Blind Faith Essentials Collec
 		"tank_swing_interval" 1.125	
 		"z_tank_attack_interval" 1.125	
 		"tank_swing_miss_interval" 0.75	
+		"give" smg_mp5
 	}
 }
