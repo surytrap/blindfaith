@@ -29,5 +29,7 @@ wip
 
 # Credits
 UntotenTheo - initial idea, images, some convars
+
 surytrap - ideas, (minor) code changes, convars
-ChimiChano - ["Universal Downpour."](https://steamcommunity.com/sharedfiles/filedetails/?id=3038247005)
+
+ChimiChano - ["Universal Downpour."](https://steamcommunity.com/sharedfiles/filedetails/?id=3038247005) as base
