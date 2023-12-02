@@ -7,8 +7,15 @@ HasSpawnedRain <- 0
 
 DirectorOptions <-
 {
-    ZombieSpawnInFog = true
+	ZombieSpawnInFog = true
 	cm_DominatorLimit = 6
+	SmokerLimit = 0
+	SpitterLimit = 6
+	JockeyLimit = 6
+	HunterLimit = 6
+	ChargerLimit = 6
+	BoomerLimit = 6
+	cm_MaxSpecials = 6
 	cm_AutoReviveFromSpecialIncap = 1
 	
 	
