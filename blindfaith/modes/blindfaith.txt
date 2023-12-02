@@ -46,9 +46,9 @@ Recommended to be played with human allies and the Blind Faith Essentials Collec
 		"r_flashlightfar" 400 
 		"z_gun_damage" 60	
 		"z_common_limit" 80		//commons convars
-		"z_mob_spawn_min_size" 17      
-		"z_mob_spawn_max_size" 25	
-		"z_mob_spawn_finale_size" 20                  
+		"z_mob_spawn_min_size" 5      
+		"z_mob_spawn_max_size" 80	
+		"z_mob_spawn_finale_size" 80                  
 		"z_must_wander" 0      
 		"z_acquire_far_range" 2500      
 		"z_acquire_far_time" 5      
@@ -65,6 +65,5 @@ Recommended to be played with human allies and the Blind Faith Essentials Collec
 		"tank_swing_interval" 1.125	
 		"z_tank_attack_interval" 1.125	
 		"tank_swing_miss_interval" 0.75	
-		"give" smg_mp5
 	}
 }
