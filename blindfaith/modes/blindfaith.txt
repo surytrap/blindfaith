@@ -59,14 +59,7 @@ Recommended to be played with human allies and the Blind Faith Essentials Collec
 		"z_speed" 300     
 		"z_door_pound_damage" 120	
 		"z_spawn_mobs_behind_chance" 50    
-		"z_minion_limit" 6		//specials convars
-		"z_smoker_limit" 0	
-		"z_spitter_limit" 6	
-		"z_hunter_limit" 6	
-		"z_jockey_limit" 6	
-		"z_charger_limit" 6	
-		"z_boomer_limit" 6	
-		"z_charge_max_speed" 750	
+		"z_charge_max_speed" 750	//specials convars
 		"z_hunter_speed" 450	
 		"tank_swing_physics_prop_force" 6		//tank convars
 		"tank_swing_interval" 1.125	
