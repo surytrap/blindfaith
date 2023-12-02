@@ -168,7 +168,7 @@ function RegFog()
    Convars.SetValue( "r_flashlightfar", "400"); 
    Convars.SetValue( "fog_override", "1");
    Convars.SetValue( "fog_start", "-512");
-   Convars.SetValue( "fog_end", "768");
+   Convars.SetValue( "fog_end", "550");
    Convars.SetValue( "fog_color", "0 0 0");
    Convars.SetValue( "fog_colorskybox", "0 0 0");
    EntFire("chch_rain", "alpha", "100", 0, null)		
