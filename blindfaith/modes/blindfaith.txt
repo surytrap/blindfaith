@@ -31,7 +31,7 @@ Recommended to be played with human allies and the Blind Faith Essentials Collec
 		"fog_enableskybox" 1	
 		"fog_color" "0 0 0"        
 		"fog_start" -512	
-		"fog_end" 728	
+		"fog_end" 550	
 		"fog_colorskybox" "0 0 0"     
 		"fog_maxdensity" 1      
 		"fog_maxdensityskybox" 1      
