@@ -1,7 +1,4 @@
 # Blind Faith - A Custom Mutation for Left 4 Dead 2
-==personal==
-https://www.apkmirror.com/apk/discord-inc/discord-chat-for-gamers/discord-chat-for-gamers-205-15-stable-release/
-==personal==
 Something is in the fog. Don't blink.
 
 Blind Faith is a custom mutation created by surytrap and UntotenTheo, adding a plethora of changes to make the game much more difficult.
