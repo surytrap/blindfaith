@@ -6,7 +6,7 @@ Blind Faith is a custom mutation created by surytrap and UntotenTheo, adding a p
 Recommended Player Count: 2
 It is also recommended that you play this Mutation with hand-picked mods from either the Blind Faith Essentials Collection or the Ultimate Blind Faith Collection.
 
-This mutation was built off of ChimiChano's ["Universal Downpour."](https://steamcommunity.com/sharedfiles/filedetails/?id=3038247005) Please support the original creator as well.
+This mutation was built off of ChimiChamo's ["Universal Downpour."](https://steamcommunity.com/sharedfiles/filedetails/?id=3038247005) Please support the original creator as well.
 
 # Changes
 **Environmental**
@@ -36,4 +36,4 @@ UntotenTheo - initial idea, images, some convars
 
 surytrap - ideas, (minor) code changes, convars
 
-ChimiChano - ["Universal Downpour."](https://steamcommunity.com/sharedfiles/filedetails/?id=3038247005) as base
+ChimiChamo - ["Universal Downpour."](https://steamcommunity.com/sharedfiles/filedetails/?id=3038247005) as base
