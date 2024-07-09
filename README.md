@@ -28,7 +28,7 @@ This mutation was built off of ChimiChamo's ["Universal Downpour."](https://stea
 wip
 
 # Known issues
-- Smokers still spawn in multiplayer (we have literally zero idea why, even on latest version) (to be tested on latest)
+- Smokers still spawn in multiplayer (we have literally zero idea why) (to be tested on latest)
 - Fog seems to be a bit farther away than it should be
 
 # Credits
